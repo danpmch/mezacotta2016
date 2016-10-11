@@ -1,0 +1,6 @@
+
+*.o
+*.hi
+squarespuzzle
+.*.sw[a-z]
+
